@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MiLTON.BookStore/.vs/MiLTON.BookStore
+/MiLTON.BookStore/MiLTON.BookStore/bin/Debug/net9.0
+/MiLTON.BookStore/MiLTON.BookStore/obj
