@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiLTON.BookStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb7af9262a62b93da711d783f51835c4d013a6fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc32641ccc6fb9a8b1df8d7ed8e9e5d2fd8ee0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiLTON.BookStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiLTON.BookStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

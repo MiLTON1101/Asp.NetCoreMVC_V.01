@@ -1,5 +1,5 @@
-wwwroot\css\site.css
 wwwroot\images\logo.png
+wwwroot\css\site.css
 wwwroot\lib\jquery\jquery.js
 wwwroot\lib\jquery\jquery.min.js
 wwwroot\lib\jquery\jquery.min.map

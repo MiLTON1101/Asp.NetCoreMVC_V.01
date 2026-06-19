@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z/UJQwpNU4o=",
+  "dgSpecHash": "Bp4EusaE7fw=",
   "success": true,
   "projectFilePath": "E:\\Asp.Net Core MCV Tutorial\\.Net Project\\BookStore\\MiLTON.BookStore\\MiLTON.BookStore.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,8 @@
     "C:\\Users\\MILTON\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\9.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.9.0.17.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.build\\17.11.48\\microsoft.build.17.11.48.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.build.framework\\17.11.48\\microsoft.build.framework.17.11.48.nupkg.sha512",
@@ -84,7 +86,7 @@
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.12\\microsoft.extensions.configuration.abstractions.9.0.12.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.12\\microsoft.extensions.dependencyinjection.9.0.12.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.12\\microsoft.extensions.dependencyinjection.abstractions.9.0.12.nupkg.sha512",
-    "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.12\\microsoft.extensions.dependencymodel.9.0.12.nupkg.sha512",
+    "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.17\\microsoft.extensions.dependencymodel.9.0.17.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.logging\\9.0.12\\microsoft.extensions.logging.9.0.12.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.12\\microsoft.extensions.logging.abstractions.9.0.12.nupkg.sha512",
     "C:\\Users\\MILTON\\.nuget\\packages\\microsoft.extensions.options\\9.0.12\\microsoft.extensions.options.9.0.12.nupkg.sha512",

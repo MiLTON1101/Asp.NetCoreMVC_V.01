@@ -11,6 +11,10 @@ namespace MiLTON.BookStore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+#if DEBUG
+            services.AddRazorPages().AddRazorRuntimeCompilation();
+#endif
         }
 
         // Configure the HTTP request pipeline.
